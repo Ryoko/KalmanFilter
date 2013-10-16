@@ -1,0 +1,9 @@
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\bin\Debug\TestKalmanFilter.exe.config
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\bin\Debug\TestKalmanFilter.exe
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\bin\Debug\TestKalmanFilter.pdb
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.csprojResolveAssemblyReference.cache
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.Form1.resources
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.Properties.Resources.resources
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.csproj.GenerateResource.Cache
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.exe
+D:\Projects\Tests\TestKalmanFilter\TestKalmanFilter\obj\Debug\TestKalmanFilter.pdb
